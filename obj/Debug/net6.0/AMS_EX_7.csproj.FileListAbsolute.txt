@@ -1,0 +1,15 @@
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\bin\Debug\net6.0\AMS_EX_7.exe
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\bin\Debug\net6.0\AMS_EX_7.deps.json
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\bin\Debug\net6.0\AMS_EX_7.runtimeconfig.json
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\bin\Debug\net6.0\AMS_EX_7.dll
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\bin\Debug\net6.0\AMS_EX_7.pdb
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.csproj.AssemblyReference.cache
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.AssemblyInfoInputs.cache
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.AssemblyInfo.cs
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.dll
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\refint\AMS_EX_7.dll
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.pdb
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\AMS_EX_7.genruntimeconfig.cache
+C:\Users\Pedro Pivetta\desktop\AMS_EX_7\obj\Debug\net6.0\ref\AMS_EX_7.dll
